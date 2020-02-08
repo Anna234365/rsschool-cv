@@ -6,7 +6,7 @@ Year of birth: 1985
 
 Place of birth: Minsk
 
-Preferrefed way of contact: **6054404@gmail.com**
+Preferred way of contact: **6054404@gmail.com**
 
 
 ## **A way from total humanitarian to VBA-learner**
@@ -18,6 +18,7 @@ As my new duties were:
 * to collect data from many associates;
 * to systemize this data accurately;
 * to make some analytics for management,
+
 I started learning, at first, *MS Excel*, and then - *VBA* to automate any process that was possible to. 
 
 ## **Hello, JavaScript**
