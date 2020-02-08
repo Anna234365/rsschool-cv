@@ -29,9 +29,12 @@ So, after several days of discovering advantages and disadvantages of different 
 ## **My achievements**
 
 I realize that from the point of view of HR-specialist at the moment I do not have any achievents at all. 
-But to my mind, at least the one great thing I've already done: I started learning :blush: 
+But to my mind, at least the one great thing I've already done: I started learning!
 
-## **Thanks for your attention! Hope to meet you in a Google office once :wink: **
+## **Thanks for your attention! Hope to meet you in a Google office once ;)**
+
+
+_PS: I experimented with emoji, but they do not show correct in github pages. So I decided not to waste time and delete them. But once I will fix with problem._
 
 
 
