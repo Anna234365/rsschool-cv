@@ -3,8 +3,11 @@
 ![My pic](https://cdn.shopify.com/s/files/1/2455/4671/products/8_f42a9648-a827-4e61-aca2-c977fb81cb85_200x200.png?v=1513569725)
 
 Year of birth: 1985
+
 Place of birth: Minsk
+
 Preferrefed way of contact: **6054404@gmail.com**
+
 
 ## **A way from total humanitarian to VBA-learner**
 
@@ -27,7 +30,7 @@ So, after several days of discovering advantages and disadvantages of different 
 I realize that from the point of view of HR-specialist at the moment I do not have any achievents at all. 
 But to my mind, at least the one great thing I've already done: I started learning :blush:
 
-# **Thanks for your attention! Hope to meet you in a Google office once :wink:**
+## **Thanks for your attention! Hope to meet you in a Google office once :wink:**
 
 
 
