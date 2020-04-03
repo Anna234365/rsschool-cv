@@ -1,0 +1,62 @@
+body {
+    max-width: 1024px;
+    margin: auto;
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+#h1 {
+    background-color: rgb(104, 8, 45);
+    color: ivory;
+}
+    
+.heads {
+    background-color: rgba(165, 14, 72, 0.274);
+    border-bottom: 1px solid  rgb(104, 8, 45);
+    text-indent: 30px;
+}
+
+.basic-data {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.margin-left {
+    margin-left: 50px;  
+}
+
+.line-height {
+    line-height: 1.9;
+}
+
+.basic-td1 {
+    font-weight: 700;
+    text-align: left;
+}
+
+.education-th {
+    background-color: rgba(209, 202, 204, 0.274);
+    text-align: center;
+    font-weight: 700;
+}
+
+.education-t {
+    width: 80%; 
+    border: 2px solid rgba(209, 202, 204, 0.8);
+    border-collapse: collapse;
+}
+
+.education-td1 {
+    width: 180px;
+    text-align: center;
+}
+
+.textintend {
+    text-indent: 15px;
+}
+
+footer {
+    font-size: 20px;
+    font-weight: 700;
+    background-color: rgb(104, 8, 45);             /*the same as h1*/
+    color: ivory;                                  /*the same as h1*/
+}
